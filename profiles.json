@@ -1,0 +1,3092 @@
+[
+  {
+    "id": 1,
+    "name": "Расул Тлеуов",
+    "role": "Backend",
+    "stack": [
+      "PostgreSQL",
+      "Kafka",
+      "Node.js",
+      "Docker"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "E-commerce",
+      "AI",
+      "AgroTech"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "exchange",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 2,
+    "name": "Иван Искаков",
+    "role": "Frontend",
+    "stack": [
+      "Vue",
+      "CSS",
+      "TypeScript",
+      "PyTorch"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "Kazakh NLP",
+      "Open Source",
+      "Web3"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "cofounder",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 3,
+    "name": "Мадина Касымова",
+    "role": "Mobile",
+    "stack": [
+      "Kotlin",
+      "Swift",
+      "Flutter",
+      "Spark"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "GovTech",
+      "Cybersecurity"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "cofounder",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 4,
+    "name": "Елена Искакова",
+    "role": "Data Scientist",
+    "stack": [
+      "SQL",
+      "Python",
+      "PyTorch",
+      "Terraform"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "IoT",
+      "Kazakh NLP",
+      "Cloud"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "cofounder",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 5,
+    "name": "Томирис Бекова",
+    "role": "ML Engineer",
+    "stack": [
+      "Docker",
+      "MLOps",
+      "PyTorch",
+      "Vue"
+    ],
+    "years": 4,
+    "experience_years": 4,
+    "interests": [
+      "GameDev",
+      "FinTech",
+      "GovTech"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "job",
+    "city": "Remote",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 6,
+    "name": "Нурлан Беков",
+    "role": "DevOps",
+    "stack": [
+      "Terraform",
+      "Linux",
+      "AWS",
+      "Spark"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "EdTech",
+      "Web3"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "hire",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 7,
+    "name": "Динара Смагулова",
+    "role": "QA",
+    "stack": [
+      "Postman",
+      "Python",
+      "Java",
+      "Selenium"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "GameDev",
+      "Open Source"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "hire",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 8,
+    "name": "Елена Бекова",
+    "role": "Product Manager",
+    "stack": [
+      "SQL",
+      "Figma",
+      "Analytics",
+      "LLM"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "Open Source",
+      "Kazakh NLP",
+      "AgroTech"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "job",
+    "city": "Remote",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 9,
+    "name": "Арман Абенов",
+    "role": "UX/UI Designer",
+    "stack": [
+      "Figma",
+      "CSS",
+      "Analytics",
+      "Next.js"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "EdTech",
+      "Cybersecurity"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 10,
+    "name": "Данияр Жумабаев",
+    "role": "Tech Lead",
+    "stack": [
+      "Kubernetes",
+      "Java",
+      "Python",
+      "Flutter"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "Startups",
+      "IoT",
+      "FinTech"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "hire",
+    "city": "Remote",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 11,
+    "name": "Ерлан Абенов",
+    "role": "Recruiter",
+    "stack": [
+      "Kotlin",
+      "Java",
+      "React",
+      "React Native"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "Data",
+      "AgroTech"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "hire",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 12,
+    "name": "Арман Беков",
+    "role": "CTO/Founder",
+    "stack": [
+      "React",
+      "Go",
+      "Python",
+      "Figma"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Data",
+      "FinTech"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "cofounder",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 13,
+    "name": "Расул Ким",
+    "role": "Data Engineer",
+    "stack": [
+      "Spark",
+      "Python",
+      "Kafka",
+      "Java"
+    ],
+    "years": 4,
+    "experience_years": 4,
+    "interests": [
+      "Startups",
+      "Cybersecurity"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "job",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 14,
+    "name": "Тимур Сейтказин",
+    "role": "Security",
+    "stack": [
+      "AWS",
+      "Pentest",
+      "Linux",
+      "Spark"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "Open Source",
+      "GovTech"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 15,
+    "name": "Айгерим Ким",
+    "role": "Backend",
+    "stack": [
+      "Kafka",
+      "PostgreSQL",
+      "Java",
+      "Kotlin"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Cybersecurity",
+      "Smart City"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "hire",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 16,
+    "name": "Иван Волков",
+    "role": "Frontend",
+    "stack": [
+      "Vue",
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "Web3",
+      "FinTech",
+      "E-commerce"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "job",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 17,
+    "name": "Данияр Нуртазин",
+    "role": "Mobile",
+    "stack": [
+      "Kotlin",
+      "Flutter",
+      "Swift",
+      "AWS"
+    ],
+    "years": 0,
+    "experience_years": 0,
+    "interests": [
+      "E-commerce",
+      "EdTech",
+      "Startups"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "mentee",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 18,
+    "name": "Санжар Искаков",
+    "role": "Data Scientist",
+    "stack": [
+      "PyTorch",
+      "SQL",
+      "Pandas",
+      "Jira"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Smart City",
+      "Open Source",
+      "E-commerce"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "job",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 19,
+    "name": "Нурлан Жумабаев",
+    "role": "ML Engineer",
+    "stack": [
+      "PyTorch",
+      "Python",
+      "LLM",
+      "Terraform"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "Web3",
+      "EdTech"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "job",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 20,
+    "name": "Елена Смагулова",
+    "role": "DevOps",
+    "stack": [
+      "Terraform",
+      "Kubernetes",
+      "Linux",
+      "Kafka"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "FinTech",
+      "Kazakh NLP"
+    ],
+    "about": "Работаю над стартапом в сфере финтех и ИИ.",
+    "goal": "exchange",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 21,
+    "name": "Нурлан Тлеуов",
+    "role": "QA",
+    "stack": [
+      "Postman",
+      "Selenium",
+      "Java",
+      "Kafka"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "Smart City",
+      "Startups"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "cofounder",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 22,
+    "name": "Мадина Ахметова",
+    "role": "Product Manager",
+    "stack": [
+      "Jira",
+      "Figma",
+      "SQL",
+      "Selenium"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Open Source",
+      "Data",
+      "AI"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "mentee",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 23,
+    "name": "Камила Искакова",
+    "role": "UX/UI Designer",
+    "stack": [
+      "Figma",
+      "Analytics",
+      "CSS",
+      "Selenium"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "IoT",
+      "E-commerce"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "mentor",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 24,
+    "name": "Данияр Петров",
+    "role": "Tech Lead",
+    "stack": [
+      "Java",
+      "Kafka",
+      "Kubernetes",
+      "Python"
+    ],
+    "years": 11,
+    "experience_years": 11,
+    "interests": [
+      "EdTech",
+      "IoT"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "mentor",
+    "city": "Ақтөбе",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 25,
+    "name": "Данияр Ким",
+    "role": "Recruiter",
+    "stack": [
+      "React",
+      "Python",
+      "DevOps",
+      "Pentest"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "Web3",
+      "E-commerce"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "hire",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 26,
+    "name": "Диана Ахметова",
+    "role": "CTO/Founder",
+    "stack": [
+      "React",
+      "Go",
+      "LLM",
+      "React Native"
+    ],
+    "years": 13,
+    "experience_years": 13,
+    "interests": [
+      "Web3",
+      "IoT"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "cofounder",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 27,
+    "name": "Расул Омаров",
+    "role": "Data Engineer",
+    "stack": [
+      "AWS",
+      "Kafka",
+      "Python",
+      "PyTorch"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "FinTech",
+      "Smart City"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "mentor",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 28,
+    "name": "Камила Соколова",
+    "role": "Security",
+    "stack": [
+      "Linux",
+      "Pentest",
+      "AWS",
+      "Selenium"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "E-commerce",
+      "IoT",
+      "EdTech"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "job",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 29,
+    "name": "Асель Нурланова",
+    "role": "Backend",
+    "stack": [
+      "PostgreSQL",
+      "Kafka",
+      "Go",
+      "DevOps"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "IoT",
+      "GameDev",
+      "Web3"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "job",
+    "city": "Remote",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 30,
+    "name": "Карина Жумабаева",
+    "role": "Frontend",
+    "stack": [
+      "TypeScript",
+      "Next.js",
+      "Vue",
+      "PostgreSQL"
+    ],
+    "years": 9,
+    "experience_years": 9,
+    "interests": [
+      "GovTech",
+      "FinTech"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "mentor",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 31,
+    "name": "Асель Смагулова",
+    "role": "Mobile",
+    "stack": [
+      "Flutter",
+      "Kotlin",
+      "React Native",
+      "Swift"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "EdTech",
+      "IoT",
+      "Cloud"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "exchange",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 32,
+    "name": "Карина Соколова",
+    "role": "Data Scientist",
+    "stack": [
+      "PyTorch",
+      "Pandas",
+      "SQL",
+      "React Native"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "Data",
+      "Open Source"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "mentor",
+    "city": "Шымкент",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 33,
+    "name": "Динара Искакова",
+    "role": "ML Engineer",
+    "stack": [
+      "PyTorch",
+      "Python",
+      "LLM",
+      "CSS"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "Startups",
+      "AgroTech",
+      "Data"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "mentor",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 34,
+    "name": "Максим Сейтказин",
+    "role": "DevOps",
+    "stack": [
+      "Kubernetes",
+      "Terraform",
+      "Docker",
+      "Go"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "EdTech",
+      "Smart City"
+    ],
+    "about": "Работаю над стартапом в сфере финтех и ИИ.",
+    "goal": "mentee",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 35,
+    "name": "Жанар Ахметова",
+    "role": "QA",
+    "stack": [
+      "Java",
+      "Postman",
+      "Python",
+      "Next.js"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "Open Source",
+      "Web3",
+      "EdTech"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "job",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 36,
+    "name": "Алия Ахметова",
+    "role": "Product Manager",
+    "stack": [
+      "Analytics",
+      "SQL",
+      "Jira",
+      "Python"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "Data",
+      "FinTech",
+      "AI"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "hire",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 37,
+    "name": "Динара Ким",
+    "role": "UX/UI Designer",
+    "stack": [
+      "CSS",
+      "Analytics",
+      "Figma",
+      "Next.js"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "Web3",
+      "Smart City",
+      "Cybersecurity"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "exchange",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 38,
+    "name": "Санжар Нуртазин",
+    "role": "Tech Lead",
+    "stack": [
+      "Go",
+      "Python",
+      "Kubernetes",
+      "Spark"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "GameDev",
+      "Data"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "exchange",
+    "city": "Remote",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 39,
+    "name": "Ержан Ким",
+    "role": "Recruiter",
+    "stack": [
+      "React",
+      "DevOps",
+      "Python",
+      "Kubernetes"
+    ],
+    "years": 4,
+    "experience_years": 4,
+    "interests": [
+      "Cybersecurity",
+      "IoT"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "hire",
+    "city": "Remote",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 40,
+    "name": "Ерлан Волков",
+    "role": "CTO/Founder",
+    "stack": [
+      "React",
+      "Python",
+      "Go",
+      "Kafka"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "Open Source",
+      "E-commerce"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "cofounder",
+    "city": "Ақтөбе",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 41,
+    "name": "Ержан Тлеуов",
+    "role": "Data Engineer",
+    "stack": [
+      "SQL",
+      "AWS",
+      "Kafka",
+      "Selenium"
+    ],
+    "years": 0,
+    "experience_years": 0,
+    "interests": [
+      "Startups",
+      "Data",
+      "AgroTech"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "job",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 42,
+    "name": "Диана Смагулова",
+    "role": "Security",
+    "stack": [
+      "Python",
+      "AWS",
+      "Linux",
+      "React"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "GovTech",
+      "Cloud",
+      "IoT"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "hire",
+    "city": "Remote",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 43,
+    "name": "Ержан Нуртазин",
+    "role": "Backend",
+    "stack": [
+      "Kafka",
+      "PostgreSQL",
+      "Java",
+      "SQL"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "Web3",
+      "AI"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "mentee",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 44,
+    "name": "Асель Касымова",
+    "role": "Frontend",
+    "stack": [
+      "CSS",
+      "Next.js",
+      "TypeScript",
+      "Selenium"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "IoT",
+      "Kazakh NLP",
+      "Smart City"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "cofounder",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 45,
+    "name": "Ержан Волков",
+    "role": "Mobile",
+    "stack": [
+      "Kotlin",
+      "Swift",
+      "Flutter",
+      "DevOps"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "AI",
+      "GovTech",
+      "FinTech"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "mentor",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 46,
+    "name": "Елена Соколова",
+    "role": "Data Scientist",
+    "stack": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Spark"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "AgroTech",
+      "Smart City"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "hire",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 47,
+    "name": "Санжар Тлеуов",
+    "role": "ML Engineer",
+    "stack": [
+      "LLM",
+      "MLOps",
+      "Python",
+      "Pentest"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "E-commerce",
+      "Open Source",
+      "AI"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "job",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 48,
+    "name": "Диана Ким",
+    "role": "DevOps",
+    "stack": [
+      "Docker",
+      "Terraform",
+      "AWS",
+      "TypeScript"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "IoT",
+      "Cybersecurity",
+      "AgroTech"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "job",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 49,
+    "name": "Алия Омарова",
+    "role": "QA",
+    "stack": [
+      "Java",
+      "Postman",
+      "Selenium",
+      "DevOps"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Web3",
+      "Cybersecurity",
+      "Smart City"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "hire",
+    "city": "Алматы",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 50,
+    "name": "Аружан Соколова",
+    "role": "Product Manager",
+    "stack": [
+      "Jira",
+      "SQL",
+      "Figma",
+      "Vue"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Web3",
+      "Cybersecurity",
+      "FinTech"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 51,
+    "name": "Арман Тлеуов",
+    "role": "UX/UI Designer",
+    "stack": [
+      "Analytics",
+      "Figma",
+      "CSS",
+      "Flutter"
+    ],
+    "years": 0,
+    "experience_years": 0,
+    "interests": [
+      "Smart City",
+      "FinTech",
+      "IoT"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "job",
+    "city": "Шымкент",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 52,
+    "name": "Елена Ахметова",
+    "role": "Tech Lead",
+    "stack": [
+      "Kafka",
+      "Go",
+      "Kubernetes",
+      "Python"
+    ],
+    "years": 13,
+    "experience_years": 13,
+    "interests": [
+      "IoT",
+      "GovTech"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "mentor",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 53,
+    "name": "Бауыржан Жумабаев",
+    "role": "Recruiter",
+    "stack": [
+      "Java",
+      "DevOps",
+      "Python",
+      "TypeScript"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Startups",
+      "GameDev"
+    ],
+    "about": "Работаю над стартапом в сфере финтех и ИИ.",
+    "goal": "hire",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 54,
+    "name": "Иван Касымов",
+    "role": "CTO/Founder",
+    "stack": [
+      "Go",
+      "Python",
+      "React",
+      "Java"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "IoT",
+      "Startups"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "cofounder",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 55,
+    "name": "Иван Петров",
+    "role": "Data Engineer",
+    "stack": [
+      "Kafka",
+      "Python",
+      "Spark",
+      "Jira"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "EdTech",
+      "Open Source"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 56,
+    "name": "Тимур Волков",
+    "role": "Security",
+    "stack": [
+      "AWS",
+      "Linux",
+      "Pentest",
+      "Postman"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "AgroTech",
+      "EdTech"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "hire",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 57,
+    "name": "Елена Омарова",
+    "role": "Backend",
+    "stack": [
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "CSS"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "Cloud",
+      "GovTech"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "job",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 58,
+    "name": "Динара Омарова",
+    "role": "Frontend",
+    "stack": [
+      "Next.js",
+      "Vue",
+      "TypeScript",
+      "Kafka"
+    ],
+    "years": 4,
+    "experience_years": 4,
+    "interests": [
+      "AI",
+      "EdTech"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "hire",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 59,
+    "name": "Алия Соколова",
+    "role": "Mobile",
+    "stack": [
+      "Flutter",
+      "React Native",
+      "Swift",
+      "PostgreSQL"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "EdTech",
+      "E-commerce"
+    ],
+    "about": "Работаю над стартапом в сфере финтех и ИИ.",
+    "goal": "mentor",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 60,
+    "name": "Мадина Ким",
+    "role": "Data Scientist",
+    "stack": [
+      "Pandas",
+      "PyTorch",
+      "Python",
+      "AWS"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Data",
+      "Startups",
+      "Cloud"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "cofounder",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 61,
+    "name": "Жанар Нурланова",
+    "role": "ML Engineer",
+    "stack": [
+      "Docker",
+      "LLM",
+      "PyTorch",
+      "Next.js"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "Cloud",
+      "AgroTech",
+      "GameDev"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "hire",
+    "city": "Қарағанды",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 62,
+    "name": "Карина Ахметова",
+    "role": "DevOps",
+    "stack": [
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "Pandas"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "IoT",
+      "GovTech",
+      "Kazakh NLP"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "job",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 63,
+    "name": "Данияр Омаров",
+    "role": "QA",
+    "stack": [
+      "Java",
+      "Postman",
+      "Python",
+      "Vue"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "GovTech",
+      "AI"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "job",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 64,
+    "name": "Арман Волков",
+    "role": "Product Manager",
+    "stack": [
+      "Analytics",
+      "Jira",
+      "SQL",
+      "Docker"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Kazakh NLP",
+      "Web3"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "mentor",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 65,
+    "name": "Данияр Сейтказин",
+    "role": "UX/UI Designer",
+    "stack": [
+      "CSS",
+      "Analytics",
+      "Figma",
+      "React Native"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "IoT",
+      "Web3",
+      "Open Source"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "mentor",
+    "city": "Ақтөбе",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 66,
+    "name": "Бауыржан Омаров",
+    "role": "Tech Lead",
+    "stack": [
+      "Go",
+      "Kubernetes",
+      "Kafka",
+      "Postman"
+    ],
+    "years": 11,
+    "experience_years": 11,
+    "interests": [
+      "AI",
+      "Open Source",
+      "IoT"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "mentor",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 67,
+    "name": "Санжар Абенов",
+    "role": "Recruiter",
+    "stack": [
+      "DevOps",
+      "React",
+      "Python",
+      "React Native"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "GovTech",
+      "FinTech"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "hire",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 68,
+    "name": "Томирис Омарова",
+    "role": "CTO/Founder",
+    "stack": [
+      "LLM",
+      "React",
+      "Go",
+      "TypeScript"
+    ],
+    "years": 9,
+    "experience_years": 9,
+    "interests": [
+      "AI",
+      "GovTech",
+      "EdTech"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "hire",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 69,
+    "name": "Камила Жумабаева",
+    "role": "Data Engineer",
+    "stack": [
+      "SQL",
+      "Python",
+      "Kafka",
+      "Spark"
+    ],
+    "years": 9,
+    "experience_years": 9,
+    "interests": [
+      "Startups",
+      "EdTech",
+      "GameDev"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "mentor",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 70,
+    "name": "Асель Искакова",
+    "role": "Security",
+    "stack": [
+      "AWS",
+      "Linux",
+      "Pentest",
+      "Analytics"
+    ],
+    "years": 0,
+    "experience_years": 0,
+    "interests": [
+      "Smart City",
+      "IoT",
+      "Data"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "job",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 71,
+    "name": "Мадина Нурланова",
+    "role": "Backend",
+    "stack": [
+      "Java",
+      "Kafka",
+      "Python",
+      "Kubernetes"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "E-commerce",
+      "Smart City",
+      "Startups"
+    ],
+    "about": "Работаю над стартапом в сфере финтех и ИИ.",
+    "goal": "cofounder",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 72,
+    "name": "Бауыржан Нуртазин",
+    "role": "Frontend",
+    "stack": [
+      "React",
+      "Next.js",
+      "CSS",
+      "Node.js"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "E-commerce",
+      "GovTech"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "mentee",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 73,
+    "name": "Камила Бекова",
+    "role": "Mobile",
+    "stack": [
+      "Kotlin",
+      "Swift",
+      "Flutter",
+      "Vue"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "E-commerce",
+      "Startups",
+      "IoT"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "job",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 74,
+    "name": "Томирис Искакова",
+    "role": "Data Scientist",
+    "stack": [
+      "PyTorch",
+      "Python",
+      "SQL",
+      "Go"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "AI",
+      "IoT"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "hire",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 75,
+    "name": "Расул Абенов",
+    "role": "ML Engineer",
+    "stack": [
+      "PyTorch",
+      "LLM",
+      "Docker",
+      "Swift"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "EdTech",
+      "Cybersecurity"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "mentee",
+    "city": "Алматы",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 76,
+    "name": "Алия Смагулова",
+    "role": "DevOps",
+    "stack": [
+      "Docker",
+      "Terraform",
+      "Kubernetes",
+      "LLM"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "Open Source",
+      "AI",
+      "E-commerce"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "mentee",
+    "city": "Remote",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 77,
+    "name": "Санжар Петров",
+    "role": "QA",
+    "stack": [
+      "Python",
+      "Postman",
+      "Java",
+      "Kubernetes"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "Smart City",
+      "E-commerce",
+      "FinTech"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "mentor",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 78,
+    "name": "Аружан Омарова",
+    "role": "Product Manager",
+    "stack": [
+      "Figma",
+      "Jira",
+      "Analytics",
+      "Node.js"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Smart City",
+      "E-commerce"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "mentor",
+    "city": "Астана",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 79,
+    "name": "Айдос Касымов",
+    "role": "UX/UI Designer",
+    "stack": [
+      "Figma",
+      "CSS",
+      "Analytics",
+      "Terraform"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Startups",
+      "Cybersecurity",
+      "Open Source"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "job",
+    "city": "Remote",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 80,
+    "name": "Диана Бекова",
+    "role": "Tech Lead",
+    "stack": [
+      "Kafka",
+      "Java",
+      "Kubernetes",
+      "Flutter"
+    ],
+    "years": 10,
+    "experience_years": 10,
+    "interests": [
+      "GovTech",
+      "Cloud"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "exchange",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 81,
+    "name": "Жанар Соколова",
+    "role": "Recruiter",
+    "stack": [
+      "Python",
+      "Java",
+      "Kotlin",
+      "Jira"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "GameDev",
+      "FinTech"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "exchange",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 82,
+    "name": "Карина Смагулова",
+    "role": "CTO/Founder",
+    "stack": [
+      "React",
+      "LLM",
+      "Python",
+      "Figma"
+    ],
+    "years": 12,
+    "experience_years": 12,
+    "interests": [
+      "GovTech",
+      "FinTech",
+      "GameDev"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "mentor",
+    "city": "Ақтөбе",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 83,
+    "name": "Жанар Касымова",
+    "role": "Data Engineer",
+    "stack": [
+      "Python",
+      "Kafka",
+      "AWS",
+      "Java"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Kazakh NLP",
+      "GovTech",
+      "AI"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "hire",
+    "city": "Remote",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 84,
+    "name": "Нурлан Абенов",
+    "role": "Security",
+    "stack": [
+      "Pentest",
+      "AWS",
+      "Python",
+      "Spark"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Smart City",
+      "FinTech"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "mentor",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 85,
+    "name": "Томирис Касымова",
+    "role": "Backend",
+    "stack": [
+      "Kafka",
+      "Go",
+      "Python",
+      "SQL"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "FinTech",
+      "AI"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "cofounder",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 86,
+    "name": "Мадина Омарова",
+    "role": "Frontend",
+    "stack": [
+      "Vue",
+      "Next.js",
+      "CSS",
+      "Swift"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "FinTech",
+      "IoT"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "mentee",
+    "city": "Алматы",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 87,
+    "name": "Санжар Касымов",
+    "role": "Mobile",
+    "stack": [
+      "Kotlin",
+      "React Native",
+      "Flutter",
+      "CSS"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "FinTech",
+      "AgroTech",
+      "E-commerce"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "job",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 88,
+    "name": "Тимур Абенов",
+    "role": "Data Scientist",
+    "stack": [
+      "SQL",
+      "Python",
+      "Pandas",
+      "Java"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "Smart City",
+      "AI",
+      "AgroTech"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "job",
+    "city": "Remote",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 89,
+    "name": "Бауыржан Беков",
+    "role": "ML Engineer",
+    "stack": [
+      "LLM",
+      "MLOps",
+      "Python",
+      "Node.js"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Kazakh NLP",
+      "Smart City",
+      "AgroTech"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "hire",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 90,
+    "name": "Айдос Петров",
+    "role": "DevOps",
+    "stack": [
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "AI",
+      "Web3",
+      "E-commerce"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 91,
+    "name": "Бауыржан Искаков",
+    "role": "QA",
+    "stack": [
+      "Python",
+      "Postman",
+      "Java",
+      "Next.js"
+    ],
+    "years": 0,
+    "experience_years": 0,
+    "interests": [
+      "AgroTech",
+      "GovTech",
+      "Web3"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "mentee",
+    "city": "Астана",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 92,
+    "name": "Арман Сейтказин",
+    "role": "Product Manager",
+    "stack": [
+      "Analytics",
+      "SQL",
+      "Jira",
+      "Java"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "FinTech",
+      "GovTech"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "mentee",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 93,
+    "name": "Иван Жумабаев",
+    "role": "UX/UI Designer",
+    "stack": [
+      "CSS",
+      "Analytics",
+      "Figma",
+      "Pentest"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "Data",
+      "AI",
+      "GovTech"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "mentor",
+    "city": "Remote",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 94,
+    "name": "Диана Омарова",
+    "role": "Tech Lead",
+    "stack": [
+      "Kubernetes",
+      "Java",
+      "Go",
+      "SQL"
+    ],
+    "years": 14,
+    "experience_years": 14,
+    "interests": [
+      "Data",
+      "FinTech"
+    ],
+    "about": "Работаю над стартапом в сфере финтех и ИИ.",
+    "goal": "mentor",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "GovTech"
+  },
+  {
+    "id": 95,
+    "name": "Максим Ким",
+    "role": "Recruiter",
+    "stack": [
+      "DevOps",
+      "Java",
+      "React",
+      "MLOps"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "FinTech",
+      "Startups",
+      "Kazakh NLP"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "hire",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 96,
+    "name": "Иван Абенов",
+    "role": "CTO/Founder",
+    "stack": [
+      "Python",
+      "React",
+      "LLM",
+      "Linux"
+    ],
+    "years": 11,
+    "experience_years": 11,
+    "interests": [
+      "AgroTech",
+      "FinTech",
+      "Smart City"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "hire",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 97,
+    "name": "Елена Касымова",
+    "role": "Data Engineer",
+    "stack": [
+      "AWS",
+      "Kafka",
+      "Spark",
+      "LLM"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Smart City",
+      "Startups",
+      "Cybersecurity"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "exchange",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 98,
+    "name": "Тимур Тлеуов",
+    "role": "Security",
+    "stack": [
+      "AWS",
+      "Linux",
+      "Pentest",
+      "Vue"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "FinTech",
+      "AI"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "exchange",
+    "city": "Ақтөбе",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 99,
+    "name": "Асель Жумабаева",
+    "role": "Backend",
+    "stack": [
+      "Python",
+      "Java",
+      "Go",
+      "DevOps"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "Smart City",
+      "Open Source"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 100,
+    "name": "Нурлан Нуртазин",
+    "role": "Frontend",
+    "stack": [
+      "Next.js",
+      "Vue",
+      "CSS",
+      "Analytics"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Smart City",
+      "EdTech",
+      "GovTech"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "mentor",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 101,
+    "name": "Диана Соколова",
+    "role": "Mobile",
+    "stack": [
+      "Swift",
+      "Flutter",
+      "Kotlin",
+      "Node.js"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Web3",
+      "IoT"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 102,
+    "name": "Санжар Волков",
+    "role": "Data Scientist",
+    "stack": [
+      "SQL",
+      "Pandas",
+      "Python",
+      "Jira"
+    ],
+    "years": 4,
+    "experience_years": 4,
+    "interests": [
+      "FinTech",
+      "Data"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "cofounder",
+    "city": "Алматы",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 103,
+    "name": "Ержан Омаров",
+    "role": "ML Engineer",
+    "stack": [
+      "Docker",
+      "MLOps",
+      "Python",
+      "PyTorch"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "E-commerce",
+      "Cloud",
+      "GameDev"
+    ],
+    "about": "Работаю над стартапом в сфере финтех и ИИ.",
+    "goal": "job",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 104,
+    "name": "Алия Искакова",
+    "role": "DevOps",
+    "stack": [
+      "Kubernetes",
+      "Terraform",
+      "Linux",
+      "Swift"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "E-commerce",
+      "GameDev",
+      "IoT"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "exchange",
+    "city": "Алматы",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 105,
+    "name": "Карина Искакова",
+    "role": "QA",
+    "stack": [
+      "Postman",
+      "Python",
+      "Java",
+      "Kafka"
+    ],
+    "years": 0,
+    "experience_years": 0,
+    "interests": [
+      "Cloud",
+      "AI"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 106,
+    "name": "Динара Соколова",
+    "role": "Product Manager",
+    "stack": [
+      "Figma",
+      "Jira",
+      "Analytics",
+      "Vue"
+    ],
+    "years": 0,
+    "experience_years": 0,
+    "interests": [
+      "Smart City",
+      "E-commerce",
+      "AI"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "job",
+    "city": "Қарағанды",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 107,
+    "name": "Ерлан Жумабаев",
+    "role": "UX/UI Designer",
+    "stack": [
+      "CSS",
+      "Analytics",
+      "Figma",
+      "Selenium"
+    ],
+    "years": 6,
+    "experience_years": 6,
+    "interests": [
+      "Kazakh NLP",
+      "GameDev",
+      "Open Source"
+    ],
+    "about": "Веду комьюнити, выступаю на митапах.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 108,
+    "name": "Санжар Жумабаев",
+    "role": "Tech Lead",
+    "stack": [
+      "Kafka",
+      "Python",
+      "Go",
+      "MLOps"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "Cloud",
+      "Open Source",
+      "E-commerce"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "hire",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 109,
+    "name": "Ерлан Тлеуов",
+    "role": "Recruiter",
+    "stack": [
+      "Kotlin",
+      "Python",
+      "DevOps",
+      "Postman"
+    ],
+    "years": 4,
+    "experience_years": 4,
+    "interests": [
+      "FinTech",
+      "EdTech",
+      "Cybersecurity"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "hire",
+    "city": "Remote",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 110,
+    "name": "Томирис Смагулова",
+    "role": "CTO/Founder",
+    "stack": [
+      "Python",
+      "AWS",
+      "Go",
+      "Swift"
+    ],
+    "years": 10,
+    "experience_years": 10,
+    "interests": [
+      "GovTech",
+      "E-commerce",
+      "Data"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "cofounder",
+    "city": "Астана",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 111,
+    "name": "Ержан Касымов",
+    "role": "Data Engineer",
+    "stack": [
+      "Spark",
+      "AWS",
+      "Kafka",
+      "Kotlin"
+    ],
+    "years": 3,
+    "experience_years": 3,
+    "interests": [
+      "Open Source",
+      "GovTech"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "cofounder",
+    "city": "Алматы",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Банк / FinTech"
+  },
+  {
+    "id": 112,
+    "name": "Томирис Жумабаева",
+    "role": "Security",
+    "stack": [
+      "Python",
+      "AWS",
+      "Linux",
+      "Kafka"
+    ],
+    "years": 8,
+    "experience_years": 8,
+    "interests": [
+      "GameDev",
+      "Data"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "mentor",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 113,
+    "name": "Камила Ахметова",
+    "role": "Backend",
+    "stack": [
+      "PostgreSQL",
+      "Java",
+      "Python",
+      "Analytics"
+    ],
+    "years": 2,
+    "experience_years": 2,
+    "interests": [
+      "EdTech",
+      "Kazakh NLP",
+      "Web3"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "job",
+    "city": "Remote",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Аутсорс"
+  },
+  {
+    "id": 114,
+    "name": "Алия Жумабаева",
+    "role": "Frontend",
+    "stack": [
+      "Vue",
+      "React",
+      "Next.js",
+      "React Native"
+    ],
+    "years": 0,
+    "experience_years": 0,
+    "interests": [
+      "EdTech",
+      "Web3"
+    ],
+    "about": "Pet-проекты, open source и развитие инженерной культуры.",
+    "goal": "mentee",
+    "city": "Шымкент",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 115,
+    "name": "Карина Бекова",
+    "role": "Mobile",
+    "stack": [
+      "Kotlin",
+      "Swift",
+      "Flutter",
+      "Pentest"
+    ],
+    "years": 4,
+    "experience_years": 4,
+    "interests": [
+      "AI",
+      "E-commerce",
+      "FinTech"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "job",
+    "city": "Астана",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Astana Hub"
+  },
+  {
+    "id": 116,
+    "name": "Аружан Ахметова",
+    "role": "Data Scientist",
+    "stack": [
+      "PyTorch",
+      "Pandas",
+      "SQL",
+      "Kubernetes"
+    ],
+    "years": 1,
+    "experience_years": 1,
+    "interests": [
+      "EdTech",
+      "GameDev",
+      "Smart City"
+    ],
+    "about": "Ищу интересные проекты и сильную команду.",
+    "goal": "job",
+    "city": "Remote",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 117,
+    "name": "Расул Петров",
+    "role": "ML Engineer",
+    "stack": [
+      "Python",
+      "Docker",
+      "PyTorch",
+      "Linux"
+    ],
+    "years": 9,
+    "experience_years": 9,
+    "interests": [
+      "Cloud",
+      "E-commerce",
+      "Smart City"
+    ],
+    "about": "Interested in scalable systems and clean architecture.",
+    "goal": "exchange",
+    "city": "Астана",
+    "langs": [
+      "kk",
+      "en"
+    ],
+    "org": "Университет"
+  },
+  {
+    "id": 118,
+    "name": "Камила Ким",
+    "role": "DevOps",
+    "stack": [
+      "Terraform",
+      "AWS",
+      "Kubernetes",
+      "DevOps"
+    ],
+    "years": 7,
+    "experience_years": 7,
+    "interests": [
+      "Cybersecurity",
+      "Cloud"
+    ],
+    "about": "Работаю над стартапом в сфере финтех и ИИ.",
+    "goal": "mentor",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Стартап"
+  },
+  {
+    "id": 119,
+    "name": "Ержан Жумабаев",
+    "role": "QA",
+    "stack": [
+      "Java",
+      "Postman",
+      "Selenium",
+      "Analytics"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "Web3",
+      "Cybersecurity",
+      "FinTech"
+    ],
+    "about": "Люблю строить продукты, которые решают реальные задачи в Казахстане.",
+    "goal": "mentor",
+    "city": "Ақтөбе",
+    "langs": [
+      "ru",
+      "en"
+    ],
+    "org": "Продуктовая компания"
+  },
+  {
+    "id": 120,
+    "name": "Аружан Нурланова",
+    "role": "Product Manager",
+    "stack": [
+      "SQL",
+      "Jira",
+      "Figma",
+      "Java"
+    ],
+    "years": 5,
+    "experience_years": 5,
+    "interests": [
+      "GovTech",
+      "Startups"
+    ],
+    "about": "Хочу делиться опытом и расти вместе с сообществом.",
+    "goal": "cofounder",
+    "city": "Алматы",
+    "langs": [
+      "kk",
+      "ru"
+    ],
+    "org": "Университет"
+  }
+]

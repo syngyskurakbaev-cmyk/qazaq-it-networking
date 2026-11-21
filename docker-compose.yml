@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    container_name: qazaq-it-networking
+    ports:
+      - "8000:8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      - DB_PATH=/app/networking.db
+      - PROFILES_PATH=/app/profiles.json
+    restart: unless-stopped
